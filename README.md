@@ -2,9 +2,6 @@
 
 I'm a full-stack web developer with a background in Mathematical Physics and teaching.
 
-💬 Ask me about why I like to ski uphill 🎿 or what I'm currently reading 📖 <br>
-⚡ Fun fact: I play keys 🎹 and guitar 🎸 in a band called The Dingos 
-
 ### What I'm Currently Working On:
 
 - Finding an exciting junior full-stack developer position :)
@@ -28,7 +25,10 @@ Databases:
 Cloud Services:
 - AWS (EC2, Lambda, API Gateway, Cognito, Amplify, S3), Azure
 
+##
 
+💬 Ask me about why I like to ski uphill 🎿 or what I'm currently reading 📖 <br>
+⚡ Fun fact: I play keys 🎹 and guitar 🎸 in a band called The Dingos 
 
 
 <!--
