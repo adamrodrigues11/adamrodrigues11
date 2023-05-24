@@ -1,4 +1,34 @@
-### Hi there 👋
+## Hi, I'm Adam
+
+I'm a full-stack web developer with a background in Mathematical Physics and teaching.
+
+### Technical Skills:
+
+Programming Languages:
+- JavaScript, C#, Python, Swift, Kotlin
+
+Frontend:
+- ReactJS, Razor Pages, Bootstrap, Tailwind, CSS, HTML
+
+Backend:
+- Node.js, Express, ASP.NET Core (Web API, MVC)
+
+Databases:
+- SQL, MySQL, PostgreSQL, MongoDB
+
+Cloud Services:
+- AWS (EC2, Lambda, API Gateway, Cognito, Amplify, S3), Azure
+
+### What I'm Currently Working On:
+
+- Finding an exciting junior full-stack developer position :)
+- My own personal website (coming soon!)
+- Learning Typescript!
+
+##
+
+💬 Ask me about why I like to ski uphill 🎿 or what I'm currently reading 📖 <br>
+⚡ Fun fact: I play keys 🎹 and guitar 🎸 in a band called The Dingos 
 
 <!--
 **adamrodrigues11/adamrodrigues11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
