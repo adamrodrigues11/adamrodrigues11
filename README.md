@@ -5,7 +5,7 @@ I'm a full-stack web developer with a background in Mathematical Physics and tea
 ### What I'm Currently Working On:
 
 - Finding an exciting junior full-stack developer position :)
-- My own personal website (coming soon!)
+- My own personal website, using Next.js (coming soon!)
 - Learning Typescript!
 
 ### Technical Skills:
