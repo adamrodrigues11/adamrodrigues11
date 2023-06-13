@@ -5,7 +5,6 @@ I'm a full-stack web developer with a background in Mathematical Physics and tea
 ### What I'm Currently Working On:
 
 - Finding an exciting junior full-stack developer position :)
-- My own personal website, using Next.js (coming soon!)
 - Learning Typescript!
 
 ### Technical Skills:
@@ -13,11 +12,8 @@ I'm a full-stack web developer with a background in Mathematical Physics and tea
 Programming Languages:
 - JavaScript, C#, Python, Swift, Kotlin
 
-Frontend:
-- ReactJS, Razor Pages, Bootstrap, Tailwind, CSS, HTML
-
-Backend:
-- Node.js, Express, ASP.NET Core (Web API, MVC)
+Frameworks and Libraries:
+- React.js, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC) Bootstrap, Tailwind CSS
 
 Databases:
 - SQL, MySQL, PostgreSQL, MongoDB
