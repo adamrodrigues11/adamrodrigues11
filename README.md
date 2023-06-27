@@ -13,7 +13,7 @@ Programming Languages:
 - JavaScript, C#, Python, Swift, Kotlin
 
 Frameworks and Libraries:
-- React.js, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC) Bootstrap, Tailwind CSS
+- React.js, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC), Bootstrap, Tailwind CSS
 
 Databases:
 - SQL, MySQL, PostgreSQL, MongoDB
