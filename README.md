@@ -2,11 +2,6 @@
 
 I'm a full-stack web developer with a background in Mathematical Physics and teaching.
 
-### What I'm Currently Working On:
-
-- Finding an exciting junior full-stack developer position :)
-- Learning Typescript!
-
 ### Technical Skills:
 
 Programming Languages:
