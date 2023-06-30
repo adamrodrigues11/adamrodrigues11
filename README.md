@@ -1,6 +1,6 @@
 ## Hi, I'm Adam
 
-I'm a full stack web developer with a background in Mathematical Physics and teaching.
+I'm a full stack web developer with a background in Mathematical Physics and teaching. Actively seeking full-time junior dev opportunities.
 
 ### Technical Skills:
 
