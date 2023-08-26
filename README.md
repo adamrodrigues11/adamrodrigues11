@@ -8,10 +8,10 @@ Programming Languages:
 - JavaScript, C#, Python, Swift, Kotlin
 
 Frameworks and Libraries:
-- React.js, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC), Bootstrap, Tailwind CSS
+- React, Angular, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC), Bootstrap, Tailwind CSS
 
 Databases:
-- SQL, MySQL, PostgreSQL, MongoDB
+- MS SQL Server, MySQL, PostgreSQL, MongoDB
 
 Cloud Services:
 - AWS (EC2, Lambda, API Gateway, Cognito, Amplify, S3), Azure
