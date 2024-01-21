@@ -1,25 +1,23 @@
 ## Hi, I'm Adam
 
-I'm a full stack web developer with a background in Mathematical Physics and teaching. Actively seeking full-time opportunities as a junior developer.
+I'm an educational technology specialist and full stack web developer. I have a background in Mathematical Physics and teaching. Seeking to contribute to open source proejcts within the ed tech sector.
 
 ### Technical Skills:
 
 Programming Languages:
-- JavaScript, C#, Python, Swift, Kotlin
+- Typescript, C#, Python
 
 Frameworks and Libraries:
-- React, Angular, Node.js, Express.js, Next.js, ASP.NET (Web API, MVC), Bootstrap, Tailwind CSS
+- React, Angular, Express, Next.js, ASP.NET (Web API, MVC)
+
+ORM:
+- Entity Framework, Prisma
 
 Databases:
-- MS SQL Server, MySQL, PostgreSQL, MongoDB
+- MS SQL Server, PostgreSQL, CockroachDB
 
 Cloud Services:
 - AWS (EC2, Lambda, API Gateway, Cognito, Amplify, S3), Azure
-
-##
-
-💬 Ask me about why I like to ski uphill 🎿 or what I'm currently reading 📖 <br>
-⚡ Fun fact: I play keys 🎹 and guitar 🎸 in a band called The Dingos 
 
 
 <!--
