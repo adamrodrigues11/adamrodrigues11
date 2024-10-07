@@ -1,6 +1,6 @@
 ## Hi, I'm Adam
 
-I'm an educational technology specialist and full stack web developer. I have a background in mathematical physics and teaching. Seeking to contribute to open source proejcts within the ed tech sector.
+I'm an educational technology specialist and full stack web developer. I have a background in mathematical physics and teaching. Seeking to contribute to open source projects within the ed tech sector.
 
 ### Technical Skills:
 
